@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.login_buttons {
+  display: grid;
+  place-items: center;
+}
